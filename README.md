@@ -36,4 +36,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Deployed Preview
 
 https://meta-verse-web-page-aditya28-coder.vercel.app/
+and 
 https://meta-verse-web-page-git-main-aditya28-coder.vercel.app/
